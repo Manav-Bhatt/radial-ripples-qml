@@ -1,10 +1,3 @@
-Group Number-51
-Under Guidance of
-@DR.Sandeep Kumar Singh
-@vedant thakur-20224075
-@anurag Gupta-20204030
-@Dhruv Kumar Tiwari - 20224057
-
 Radial Ripples QML
 
 A comprehensive Quantum Machine Learning (QML) project that demonstrates quantum classification of synthetic radial ripple images using PennyLane. This project compares classical machine learning baselines with quantum approaches including Variational Quantum Classifiers (VQC) and quantum kernel methods.
